@@ -37,4 +37,4 @@ I love coding.
 `<p>`                              | `<br>`
  * Creates a paragraph             |*  Creates a line break
  * Adds spacing before and after   |*  No extra spacing 
- *  Has opening and closing tags   |*  Empty tag 
+ *  Has opening and closing tags   |*  git push origin masterEmpty tag 
